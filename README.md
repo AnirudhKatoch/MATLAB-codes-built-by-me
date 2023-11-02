@@ -5,4 +5,4 @@ This GitHub repository serves as a showcase of the MATLAB code I have developed 
 
 
 
-<img align="left" alt="Coding" width="500" src="https://i.imgur.com/ZY77Seh.png">
+<img align="left" alt="Coding" width="600" src="https://i.imgur.com/ZY77Seh.png">
