@@ -5,4 +5,6 @@ This GitHub repository serves as a showcase of the MATLAB code I have developed 
 
 
 
-<img align="middle" alt="Coding" width="750" src="https://i.imgur.com/ZY77Seh.png">
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img alt="Coding" width="750" src="https://i.imgur.com/ZY77Seh.png">
+</div>
