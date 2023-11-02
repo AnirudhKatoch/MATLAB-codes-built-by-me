@@ -9,4 +9,3 @@ This GitHub repository serves as a showcase of the MATLAB code I have developed 
 
 
 
-<img id="centered-image" src="https://i.imgur.com/ZY77Seh.png" alt="Image Description" width="800">
